@@ -1,0 +1,9 @@
+Package: com.vincentxue.tweakobtainudid
+Name: TweakObtainUDID
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A tweak that returns fake UDID when getting it via .mobileconfig file.
+Maintainer: VincentXue
+Author: VincentXue
+Section: Tweaks
